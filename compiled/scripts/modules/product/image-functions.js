@@ -1,0 +1,1 @@
+define(["modules/jquery-mozu","hyprlivecontext","modules/block-ui"],function(e,n){{var o=n.locals.siteContext,t=o.cdnPrefix;t.substring(t.lastIndexOf("-")+1)}});
